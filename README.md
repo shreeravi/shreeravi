@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreeravi
+- 👋 Hi, I’m Shreedar
 - 👀 I’m interested in techy stuffs
 - 🌱 I’m currently learning Engineering in CS
 - 💞️ I’m looking to collaborate on anything related to Tech
